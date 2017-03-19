@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditCuisse.VirtualCard", "CreditCuisse.VirtualCard\CreditCuisse.VirtualCard.csproj", "{5A50C617-1FFC-46E6-AC98-478679A36AD0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CreditSuisse.VirtualCard.Tests", "CreditSuisse.VirtualCard.Tests\CreditSuisse.VirtualCard.Tests.csproj", "{6AD46A1B-BD6F-4C53-BE3B-51187A318155}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5A50C617-1FFC-46E6-AC98-478679A36AD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A50C617-1FFC-46E6-AC98-478679A36AD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A50C617-1FFC-46E6-AC98-478679A36AD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A50C617-1FFC-46E6-AC98-478679A36AD0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6AD46A1B-BD6F-4C53-BE3B-51187A318155}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD46A1B-BD6F-4C53-BE3B-51187A318155}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD46A1B-BD6F-4C53-BE3B-51187A318155}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD46A1B-BD6F-4C53-BE3B-51187A318155}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
